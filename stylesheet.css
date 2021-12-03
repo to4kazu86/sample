@@ -1,0 +1,18 @@
+.title {
+    color: #02ccba;
+  }
+
+.heading{
+    text-align: center;
+    background-color: blue;
+    
+}
+
+ .heading p{
+    display: inline-block;
+    color: aqua;
+    background-color: black;
+    padding: 100px;
+    border: 10px solid white;
+    margin: 100px;
+  }
